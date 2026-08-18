@@ -1,8 +1,8 @@
 # 👋 Hello 
 
 - Pronouns: He/Him
-- I’m currently learning Front-End (HTML, CSS, Javascript) at College
-- And learning Front-End at Mimo
+- I’m currently learning React at College
+- And learning Front-End (HTML, CSS, Javascript, React) at Mimo
 - My favorite project for now is my [Pokédex](https://github.com/1N-i/Pokedex_PokeAPI)
 - I'm a fan of games and would like to work and launch one someday
 - Most my 'Total Contributions' are just small changes on text and code
@@ -11,7 +11,8 @@
 ## 🖥️ How I started:
 - Used some Game Maker at 2022
 - Started seeing Python at april/2025
-- Begin seeing Front-End at february/2026
+- Front-End at february/2026
+- And React at august/2026
 
 ## 📊 GitHub Stats
 
