@@ -10,7 +10,8 @@
 
 ## 🖥️ How I started:
 - Used some Game Maker at 2022
-- Started seeing Python at april/2025
+- Started using Python at april/2025
+- Started seeing C++ at february/2026
 - Front-End at february/2026
 - And React at august/2026
 
