@@ -3,7 +3,7 @@
 - Pronouns: He/Him
 - I’m currently learning React at College
 - And learning Front-End (HTML, CSS, Javascript, React) at Mimo
-- My favorite project for now is my [Pokédex](https://github.com/1N-i/Pokedex_PokeAPI)
+- My favorite work for now is my in progress [Sort Algorithms](https://github.com/1N-i/Sort-algorithms) project
 - I'm a fan of games and would like to work and launch one someday
 - Most my 'Total Contributions' are just small changes on text and code
 - I plan to upgrade this README as time goes on
