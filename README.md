@@ -32,7 +32,7 @@ Estudante de engenharia da computação no **IFRJ (Instituto Federal do Rio de J
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Status GitHub
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1N-i&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&text_color=D3D3D3&border_color=7209B7&langs_count=8" alt="Top Langs" />
