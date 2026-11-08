@@ -28,7 +28,7 @@ Estudante de engenharia da computação no **IFRJ (Instituto Federal do Rio de J
 
 - **[Sort Algorithms](https://github.com/1N-i/Sort-algorithms)** - Visualizador e implementação de algoritmos de ordenação.
 - **Aplicação de Visualização de Salas do IFRJ** - Aplicação web interativa com navegação de andares e hotspots detalhados para visualização de salas da faculdade *(Repositório privado por diretrizes acadêmicas)*.
-- **Projetos em Godot Engine** - Desenvolvimento de mecânicas de plataforma 2D, puzzles, manipulação de corpos estáticos e regras de troca de posição *(Jogo da Game Jam será publicado em breve após 08/11)*.
+- **[Switch Shadow](https://github.com/1N-i/Switch-Shadow)** - Desenvolvimento de um jogo 2D, puzzles, manipulação de corpos estáticos e regras de troca de posição.
 
 ---
 
