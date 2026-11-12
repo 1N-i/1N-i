@@ -27,8 +27,9 @@ Estudante de engenharia da computação no **IFRJ (Instituto Federal do Rio de J
 ### 📌 Projetos em Destaque
 
 - **[Sort Algorithms](https://github.com/1N-i/Sort-algorithms)** - Visualizador e implementação de algoritmos de ordenação.
-- **Aplicação de Visualização de Salas do IFRJ** - Aplicação web interativa com navegação de andares e hotspots detalhados para visualização de salas da faculdade *(Repositório privado por diretrizes acadêmicas)*.
+- **Aplicação de Visualização de Salas do IFRJ** - Aplicação web interativa com navegação de andares e hotspots detalhados para visualização de salas da faculdade *(Repositório privado até o momento de finalização)*.
 - **[Switch Shadow](https://github.com/1N-i/Switch-Shadow)** - Desenvolvimento de um jogo 2D, puzzles, manipulação de corpos estáticos e regras de troca de posição.
+- **[Snake Game AI](https://github.com/1N-i/Snake-Game)** - Um agente de IA que aprende em tempo real a jogar o famoso jogo da cobrinha.
 
 ---
 
